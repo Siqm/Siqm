@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/siqm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siqm&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siqm&layout=compact&langs_count=7&theme=moltack"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siqm&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Siqm&theme=Javascript-dark&border_radius=7&locale=pt_BR&date_format=j%20M%5B%20Y%5D)">
 </div>
 
 <div align="center" style = "display: inline_block"><br>
