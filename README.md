@@ -1,7 +1,7 @@
 ### Olá, amigos!
 
-- 🔭 Hoje estou trabalhando com Desenvolvimento back-end 
-- 🌱 Estou estudando NodeJs
+- 🔭 Desenvolvendo backend e frontend
+- 🌱 Estou estudando NextJs
 - 📫 Contato através do email: rafaelsmello01@gmail.com
 
 <div align="center">
