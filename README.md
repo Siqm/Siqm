@@ -2,14 +2,6 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic&display=swap" rel="stylesheet">
 
-<style>
-  * {
-    font-family: 'Zen Maru Gothic', sans-serif;
-    color: #850000;
-    font-weight:bold;
-  }
-</style>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=850000&background=FFFFFF00&center=true&width=435&lines=Hello%2C+Friends!;Welcome+to+my+Github)](https://git.io/typing-svg)
 
 My name is Rafael Mello and I am a fullstack developer, mainly working with web development
