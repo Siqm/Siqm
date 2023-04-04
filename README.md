@@ -12,6 +12,7 @@ My name is Rafael Mello and I am a fullstack developer, mainly working with web 
 * 📫 How to reach me:
   * Discord: Siqm#7531
   * Email: rafaelsmello01@gmail.com
+  * <a href="https://www.linkedin.com/in/siqm/">LinkedIn</a>
 * 🤝 I'm looking to collaborate on full stack projects!
 * 🕰️ I like to spend my free time reading, training, talking to friends and stargazing.
 
