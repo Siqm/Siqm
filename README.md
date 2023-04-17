@@ -29,19 +29,12 @@
   <img alt="Java openJdk" src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=openjdk&logoColor=5382A1"/>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img alt="Eclipse ide" src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /><br><br>
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 </p>
 
-<br>My name is Rafael Mello and I am a fullstack developer, mainly working with web development
-* 📚 I'm currently studying Computer Science and ReactNative.
-* 💬 One day I hope to...
-  * See the Northern Lights
-  * Going on a backpacking trip to various countries
-* 📫 How to reach me:
-  * Discord: Siqm#7531
-  * Email: rafaelsmello01@gmail.com
-* 🤝 I'm looking to collaborate on full stack projects!
-* 🕰️ I like to spend my free time reading, training, talking to friends and stargazing.
+<div align="center">
+  <img src="ContributionChart.svg"/>
+</div>
 
   
 <!--  <img height="180em" src="https://streak-stats.demolab.com?user=Siqm&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFDB89&fire=850000&stroke=FFDB89&sideNums=FFDB89&dates=FFDB89&currStreakLabel=850000&currStreakNum=FFDB89&sideLabels=850000&background=111111">  -->
