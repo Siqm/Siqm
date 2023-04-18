@@ -19,12 +19,12 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Styled-Components" src="https://img.shields.io/badge/-Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-EF5B25?style=flat-square&logo=Postman&logoColor=white"/>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=Microsoft%20Office&logoColor=white"/>
   <img alt="MySql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img alt="Microsoft Sql Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white"/>
