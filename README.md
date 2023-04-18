@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=850000&background=FFFFFF00&center=true&width=435&lines=Hello%2C+Friends!;Welcome+to+my+Github"/>
 </div>
 
+<br/><br/>
+
 <p>
   <img align="left" width="490" height="165" src="https://streak-stats.demolab.com?user=Siqm&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFDB89&fire=850000&stroke=FFDB89&sideNums=FFDB89&dates=FFDB89&currStreakLabel=850000&currStreakNum=FFDB89&sideLabels=850000&background=111111"/>
  
