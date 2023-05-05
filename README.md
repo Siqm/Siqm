@@ -7,7 +7,7 @@
 <p>
   <img align="left" width="490" height="165" src="https://streak-stats.demolab.com?user=Siqm&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFDB89&fire=850000&stroke=FFDB89&sideNums=FFDB89&dates=FFDB89&currStreakLabel=850000&currStreakNum=FFDB89&sideLabels=850000&background=111111"/>
  
- <!-- Badges -->
+ <!-- Badges https://simpleicons.org/ -->
  <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/  -NodeJs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="ReactJs" src="https://img.shields.io/badge/-ReactJs-45b8d8?style=flat-square&logo=react&logoColor=white"/>
